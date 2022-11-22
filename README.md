@@ -1,1 +1,1 @@
-# dainty-shop-6054
+A student registration form is used to register students for a course. No matter what subject you teach, this free Student Registration System allows students to quickly and easily sign up for your class.
